@@ -2,7 +2,7 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "powerPlatformSolutionFolder":"TestCD_Solution",
-  "environments":[],
+  "environments":[PP],
   "DeployToPP":{
     "ppEnvironmentUrl":"https://org6492fd42.crm4.dynamics.com/"
   }
